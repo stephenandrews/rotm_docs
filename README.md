@@ -1,7 +1,5 @@
 # Rise of The Magni
 
-![Rise of the Magne - Banner V 3](https://user-images.githubusercontent.com/13844325/116410974-5f6e9280-a889-11eb-9392-85a623f27ecf.jpg)
-
 ## Gameplay
 
 ![image](https://user-images.githubusercontent.com/13844325/116411318-b5433a80-a889-11eb-9195-92de196b748f.png)
